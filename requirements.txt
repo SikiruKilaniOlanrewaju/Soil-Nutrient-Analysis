@@ -1,5 +1,7 @@
+streamlit
 joblib
-os
 rasterio
+numpy
+pandas
+scikit-learn
 matplotlib
-io
