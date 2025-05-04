@@ -1,2 +1,5 @@
-
-joblib
+joblib                                                           
+os                                                               
+rasterio                                                                                              
+matplotlib                                   
+io  
